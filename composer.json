@@ -1,0 +1,12 @@
+{
+	"name": "aaronholbrook/page-template-finder",
+	"description": "Get the ID of a page based on a template slug",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"type": "wordpress-muplugin",
+	"autoload": {
+		"files": ["page-template-finder.php"]
+	}
+}
